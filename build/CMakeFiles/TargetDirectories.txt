@@ -1,0 +1,6 @@
+/Users/brianjien/CSC656/sum_harness_instructional/build/CMakeFiles/benchmark.dir
+/Users/brianjien/CSC656/sum_harness_instructional/build/CMakeFiles/sum_direct.dir
+/Users/brianjien/CSC656/sum_harness_instructional/build/CMakeFiles/sum_vector.dir
+/Users/brianjien/CSC656/sum_harness_instructional/build/CMakeFiles/sum_indirect.dir
+/Users/brianjien/CSC656/sum_harness_instructional/build/CMakeFiles/edit_cache.dir
+/Users/brianjien/CSC656/sum_harness_instructional/build/CMakeFiles/rebuild_cache.dir
